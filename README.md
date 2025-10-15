@@ -53,6 +53,7 @@ Architecture
 * A Postgres database backed by a Docker volume
 * A Node.js webapp which shows the results of the voting in real time
 
+Change to execute test of jenkin pipeline
 
 Note
 ----
