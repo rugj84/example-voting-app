@@ -1,5 +1,7 @@
 [![Build Status](http://136.117.123.215:8080/buildStatus/icon?job=instavote%2Fworker-build)](http://136.117.123.215:8080/job/instavote/job/worker-build/) 
 
+[![Build Status](http://136.117.123.215:8080/buildStatus/icon?job=instavote%2Fworker-test&subject=UnitTest)](http://136.117.123.215:8080/job/instavote/job/worker-test/) 
+
 Example Voting App
 =========
 
